@@ -27,7 +27,7 @@ class BankAccount:
 
 
 # Testing the BankAccount class
-if _name_ == "__main__":
+if __name__ == "__main__":
     # Create a BankAccount instance
     account1 = BankAccount("123456", "John Doe", 1000.0)
 
